@@ -3,9 +3,6 @@
 http://github.com/Akshayprabhe/fake_project_using_blockchain/edit/main/README.md
 
 ```
-NOTE: Devlopement of this project has been stopped because I am working on newer projects so this repository will not be receving any updates.
-Last Update: Fixed issues with connecting with metamask.
-```
 
 ### Blockchain based Fake product identification Solution using QR Codes
 
@@ -61,4 +58,4 @@ npm run dev
 7. Login to metamask ,and connect the added account to local blockchain by clicking the 'Connect Wallet' button on the homescreen.
 8. Interact with website
 
-### Psst... I have also added all the documents(reports, ppts, base paper etc.) incase anyone of you might wanna use it as your minor/major project.
+
